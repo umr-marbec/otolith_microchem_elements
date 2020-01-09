@@ -9,7 +9,7 @@ Allows selection of the statistical method & list of elements leading to optimal
    
 To refer to this script:
 
-Mercier et al (2011). Selecting statistical models and variable combinations for optimal classification using otolith microchemsitry. Ecol. Appl. 21(4): 1352-1364.
+Mercier, L., Darnaude, A. M., Bruguier, O., Vasconcelos, R. P., Cabral, H. N., Costa, M. J., et al. (2011). Selecting statistical models and variable combinations for optimal classification using otolith microchemistry. Ecological Applications, 21(4), 1352–1364
   
 Original code (2008) by Leny Mercier (lenymercier@gmail.com)
 
